@@ -1,269 +1,49 @@
-# Lecture 5: Communication in Team/Organisation
+# Lecture 5: Communication in Teams and Organizations
 
-* LECTURE 5: COMMUNICATION IN TEAMS/ ORGANIZATIONS
+## The Importance of Communication
+Communication is the lifeblood of any organization or team. It involves the transfer and understanding of meaning between individuals. Effective communication is not just about sending a message; it's about ensuring the message is received and interpreted correctly.
 
----
+### Functions of Communication
+Communication serves four major functions within a group or organization:
+1. **Control:** Clarifying duties, authority, and establishing rules and guidelines.
+2. **Motivation:** Goal setting, providing performance feedback, and reinforcing positive behavior.
+3. **Emotional Expression:** Allowing team members to express frustrations, satisfaction, and social needs.
+4. **Information:** Providing the data necessary for individuals to make informed decisions.
 
-* Learning Outcomes
+## The Communication Process
+The communication process consists of several key steps, and failure at any step can lead to misunderstandings.
+1. **Sender:** The person initiating the message.
+2. **Encoding:** Translating the thought or idea into a message (words, gestures, etc.).
+3. **Message:** The actual physical product of the sender's encoding.
+4. **Channel:** The medium through which the message travels (e.g., email, face-to-face, report).
+5. **Receiver:** The person to whom the message is directed.
+6. **Decoding:** Translating the message back into understandable form.
+7. **Noise:** Any communication barriers that distort the clarity of the message (e.g., perceptual problems, information overload, cultural differences).
+8. **Feedback:** The check on how successful the transfer of meaning was.
 
+## Directions of Communication
+Communication flows in different directions within an organizational hierarchy.
+* **Downward:** Flows from a higher level to a lower level (e.g., managers assigning tasks, explaining policies).
+* **Upward:** Flows to a higher level (e.g., progress reports, suggestions, raising issues).
+* **Lateral (Horizontal):** Takes place among members of the same work group or managers at the same level. This saves time and facilitates coordination.
 
-**By the end of this session, students should be able to:**
+## Interpersonal Communication Methods
+* **Oral Communication:** Includes speeches, formal one-on-one discussions, and informal rumors. It is advantageous for its speed and immediate feedback but can suffer from distortion as the message passes through people.
+* **Written Communication:** Includes memos, letters, emails, and instant messaging. It is tangible, verifiable, and generally more well-thought-out, but it is time-consuming and lacks immediate feedback.
+* **Nonverbal Communication:** Includes body movements, intonations, facial expressions, and physical distance. It often conveys the true feelings or emotions behind the spoken words.
 
-  * Explain the communication process model.
-  * Distinguish verbal and non-verbal communication.
-  * Evaluate cultural differences in communication styles.
-  * Assess the role of emotional intelligence.
-  * Analyse communication flows in organizations.
+## Barriers to Effective Communication
+Several factors can distort or block effective communication:
+* **Filtering:** A sender manipulating information so it will be seen more favorably by the receiver.
+* **Selective Perception:** Receivers hearing or seeing things based on their own needs, motivations, or background.
+* **Information Overload:** When the information we have to work with exceeds our processing capacity.
+* **Emotions:** How a receiver feels at the time of receipt heavily influences how they interpret the message.
+* **Language/Jargon:** Words mean different things to different people; specialized jargon can alienate or confuse those outside the group.
 
----
-
-* Communication as Shared Meaning
-* Definition of Commucnication
-  * Process of creating shared understanding.
-  * Meaning is interpreted, not transmitted.
-  * Involves symbols (words, images, gestures).
-  * Requires feedback to check understanding
-* Why Communication Matters
-  * Shapes culture and leadership.
-  * Influences performance and trust.
-  * Shapes organisational culture.
-  * Builds (or destroys) trust.
-  * Influences leadership effectiveness.
-  * Affects performance and coordination.
-  * Reduces misunderstanding and conflict.
-* Involves symbols (words, images, gestures).
-* Requires feedback to check understanding
-
----
-
-* Why Study Communication?
-* Organizational Impact
-  * Improves coordination and task integration.
-  * Reduces ambiguity and role conflict.
-  * Enables effective decision-making.
-  * Supports change implementation..
-* Leadership Effectiveness
-  * Builds credibility and trust.
-  * Shapes vision and meaning.
-  * Enhances engagement and motivation.
-  * Aligns behaviour with strategy
-* Organisational Culture and Managing Uncertain and Change
-  * Transmits values and norms.
-  * Reinforces identity and shared assumptions.
-  * Reduces anxiety during restructuring.
-  * Clarifies expectations.
-
----
-
-* Communication Process Model
-* Sender & Encoding
-  * Idea originates from sender.
-  * Encoding: translating thoughts into symbols (words, tone, gestures).
-  * Influenced by assumptions, emotions, status, and cultural background.
-  * Intention ≠ impact.
-* Channel & Noise
-  * Communication channels affect interpretations, includes; Email,face-to-face, meetings,text/chats, reports.
-  * Noise disrupts clarity (such asPhysical noise (distractions)Psychological noise (bias, stress)
-* Receiver & Feedback
-  * Decoding shaped by perception and prior experience.
-  * Feedback confirms, modifies, or distorts meaning.
-  * Communication is interactive, not linear.
-
----
-
-* Interpersonal Communication
-* Active Listening
-  * Full aattention (verbal& non-verbal signals)
-  * Reflecting feelings and meanings
-  * Reduces misunderstanding.
-* Psychological Safety
-  * Climate where individuals feel safe to speak up
-  * Encourages openness.
-  * Reduces defensive behaviour.
-* Perception & Attribution
-* Messages filtered through personal assumptions.
-* Stereotyping and bias distort interpretation.
-* Attribution errors affect workplace relationships.
-* Emotional Intelligence
-  * Awareness of own emotions.
-  * Sensitivity to others’ emotional cues.
-  * Regulating reactions in conflict situations.
-
----
-
-* Verbal Communication
-* Language Choice
-  * Framing affects perception.
-  * Clarity improves understanding.
-  * Word choice signals priorities and values.
-  * Avoid jargon and ambiguity.
-* Tone & Delivery
-  * Tone communicates attitude and intent.
-  * Emotion affects meaning.
-  * Confidence vs hesitation shapes credibility.
-  * Inconsistency between words and tone reduces trust.
-* Framing & Sensemaking
-  * Leaders frame events to shape meaning.
-  * Positive vs negative framing influences morale.
-  * Language constructs organisational reality
-* Barriers in Verbal Communication
-  * Ambiguity.
-  * Euphemisms.
-  * Over-complex language.
-  * Cultural differences in interpretation.
-
----
-
-* Non-Verbal Behaviour
-* Body Language
-  * Posture signals confidence.
-  * Gestures reinforce message.
-* Paralanguage
-  * Tone, pitch, speed.
-  * Often overrides words.
-
----
-
-* TEAM ACTIVITIES 1
-
-When working in your team, what is your preferred communication mode for important issues? Options; face-to-fac, email, WhatsApp/Text,,Team/Zoom, Phone call.
-
-  * Each of you in the team should write your preferred mode
-  * Each should explain to the team why you prefer that mode of communication.
-  * Mention one frustration about other modes.
-  * Identify each member’s preferred mode.
-  * Write them down visibly (one sheet per team)..
-
----
-
-* Cultural Communication Styles
-* High-Context(meaning embedded in relationships, tone, and non-verbal cues)
-  * Implicit meaning.
-  * Relationship-oriented.
-  * Shared understanding.
-  * Non-verbal cues are important.
-* Low-Context (meaning explicit, direct, and clearly verbalised)
-  * Explicit communication.
-  * Task-focused.
-  * Clear instructions.
-  * Direct feedback.
-
----
-
-* Impression Management
-* What is Impression Management?
-  * Conscious or unconscious attempts to shape others’ perceptions.
-  * Part of everyday organisational communication.
-  * Linked to self-presentation and identity at work.
-* Common Strategies
-  * Self-promotion – highlighting competence and achievements.
-  * Ingratiation – seeking approval through praise or agreement.
-  * Exemplification – appearing dedicated or morally committed.
-  * Supplication – highlighting limitations to gain support.
-* Ethical Considerations
-  * Risk of manipulation.
-  * Authenticity matters.
-  * Impact on trust and credibility
-
----
-
-* Emotional Intelligence
-
-Emotional Intelligence is the ability to identify, integrate understand and reflectively manage one’s own and other people’s feeling
-
-* Five dimension of emotional intelligence
-  * Self-awareness – recognising own emotions.
-  * Self-regulation – managing emotional reactions.
-  * Motivation
-  * Empathy
-  * Social skills
-
----
-
-* Organizational Communication Flows
-* Formal Flows
-  * Downward – instructions,policy performance expectation.
-  * Upward – feedback, suggestions and concerns
-* Informal Flow
-  * Grapevine spreads rapidly.
-  * Shapes morale.
-
----
-
-* Communication Climate
-* Open Communication Climate
-  * Encourages participation.
-  * Builds trust.
-  * Constructive disagreement accepted.
-  * High trust and transparency.
-* Defensive Communication Climate
-  * Suppresses dissent.
-  * Reduces innovation.
-  * Blame culture.
-  * Low trust and reduced innovation.
-
----
-
-* Digital Communication
-* Advantages
-  * Speed and accessibility.
-  * Broader reach.
-  * Asynchronous flexibility.
-  * Easy documentation and traceability.
-  * Supports remote and hybrid work.
-* Challenges
-  * Reduced richness.
-  * Virtual fatigue.
-  * Delayed or absent feedback.
-  * Information overload.
-
----
-
-* Communication and Power
-* Information Control
-  * Gatekeeping influence.
-  * Agenda setting.
-  * Selective disclosure of information.
-  * Filtering upward communication.
-* Language & Identity
-  * Language reinforces hierarchy.
-  * Labels shape organisational identity.
-  * Narratives construct organisational reality.
-  * Framing legitimises authority.
-* Language reinforces hierarchy.
-* Labels shape organisational identity.
-* Narratives construct organisational reality.
-
----
-
-* UK Case Insight – NHS
-* Breakdowns
-  * Upward silence.(employees didn’t speak up, problems known at lower lever but senior level unaware etc.).
-  * Departmental silos. Department worked separately, no information across etc
-* Lessons
-  * Transparency. Open sharing info, honest communication.
-  * Psychological safety.feel safe to speak up, no punishment for raising concerns.
-
----
-
-* Summary
-* Core Insight
-  * Communication constructs reality.
-  * Meaning depends on context.
-* Leadership Implication
-  * Strategic communication drives effectiveness.
-  * Emotion and culture shape outcomes.
-
----
-
-* TEAM ACTIVITIES 2
-
-Imagine your team is about to work together for the entire semester. Many group assignments fail not because of intelligence, but because of poor communication. Your task is to create 5 communication rules your team agrees to follow. Example "Don’t text something rude you wouldn’t say in person”.
-
----
-
-* References
-  * Buchanan, D. and Huczynski, A. (2023) Organizational Behaviour, 11th edition, Harlow: Pearson Education Limited.
-  * Mullins, L. J. and Rees, G. (2023) Management and organisational behaviour, 13th edition, Harlow: Pearson.
-
----
+## Overcoming Barriers
+To improve communication effectiveness, teams and managers should:
+* Use multiple channels to reinforce the message.
+* Use feedback to check understanding.
+* Simplify language and avoid unnecessary jargon.
+* Practice active listening (listening to understand, not just to reply).
+* Be aware of nonverbal cues and ensure they match the verbal message.
